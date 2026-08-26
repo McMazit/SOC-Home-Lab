@@ -46,3 +46,19 @@ This environment provides the foundation for detecting:
 ## Evidence
 
 Screenshots and investigation evidence are stored in the project repository.
+
+## Wazuh Integration
+
+Wazuh was deployed to monitor the Windows Active Directory environment and collect security telemetry from CLIENT01.
+
+### Monitoring
+
+- Windows Security Events
+- Authentication activity
+- Endpoint security events
+- File and system activity
+- Security alerts
+
+### Evidence
+
+![Wazuh Dashboard](screenshots/wazuh-dashboard.png)

@@ -61,4 +61,4 @@ Wazuh was deployed to monitor the Windows Active Directory environment and colle
 
 ### Evidence
 
-![Wazuh Dashboard](screenshots/wazuh-dashboard.png)
+Secreenshots Files
